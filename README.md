@@ -6,7 +6,7 @@ This project scrapes business listings from Yellow Pages, extracting names, addr
 
 1. **Clone the repository**:
 
-   git clone https://github.com/udayag/YellowPagesScraper.git
+   git clone https://github.com/udaykotian/Project-WebScraper-YellowPages.git
 2. **Install the required libraries**:
 
    pip install selenium
